@@ -1,0 +1,30 @@
+{
+  "name": "fomap",
+  "version": "0.1.0",
+  "description": "MVP fomap",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Seyarn sbastianWesolowski/fomap.git"
+  },
+  "author": "Sarutobi69, Sebastian Wesołowski <sebastian.wesolowski.sw@gmail.com>, <sebastian@wesolowski.dev>",
+  "license": "MIT",
+  "private": false,
+  "homepage": "https://github.com/SebastianWesolowski/fomap",
+  "bugs": {
+    "url": "https://github.com/SebastianWesolowski/fomap/issues"
+  },
+  "scripts": {
+    "start": "concurrently --kill-others \"yarn run serve ./app\" \"yarn run nodemon ./app/js -q\""
+  },
+  "dependencies": {
+    "babel-eslint": "^10.0.1",
+    "concurrently": "^4.1.1",
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-loader": "^2.1.2",
+    "eslint-plugin-import": "^2.17.2",
+    "nodemon": "^1.19.1",
+    "serve": "^11.1.0"
+  }
+}
