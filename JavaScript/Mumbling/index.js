@@ -1,6 +1,3 @@
-console.clear();
-console.log('test');
-
 function accum(s) {
   const value = s.split('');
   let all = '';
@@ -13,7 +10,6 @@ function accum(s) {
         otherLetter += element.toLowerCase();
       }
     }
-
     all += firstLetter + otherLetter + '-';
     return all;
   });
