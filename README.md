@@ -15,6 +15,7 @@ My solve Kata from CodeWars.
 | [9](https://github.com/SebastianWesolowski/codeWars/tree/master/JavaScript/Vowel%20Count/)                                       | [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)                               | [7](./JavaScript/Vowel%20Count/README.md)                                       |
 | [10](https://github.com/SebastianWesolowski/codeWars/tree/master/JavaScript/Get%20Nth%20Even%20Number/)                          | [Get Nth Even Number](https://www.codewars.com/kata/get-nth-even-number/javascript)                 | [8](./JavaScript/Get%20Nth%20Even%20Number/README.md)                           |
 | [11](https://github.com/SebastianWesolowski/codeWars/tree/master/JavaScript/Mumbling)                                            | [Mumbling](https://www.codewars.com/kata/mumbling/javascript)                                       | [7](./JavaScript/Mumbling/README.md)                                            |
+| [12](https://github.com/SebastianWesolowski/codeWars/tree/master/JavaScript/counting%20sheep)                                    | [Counting sheep](https://www.codewars.com/kata/counting-sheep-dot-dot-dot/javascript)               | [8](./JavaScript/counting%20sheep/README.md)                                    |
 
 My CodeWars profile: https://www.codewars.com/users/SebastianWesolowsik
 
@@ -22,3 +23,6 @@ My CodeWars profile: https://www.codewars.com/users/SebastianWesolowsik
 
 Markdown conventer:
 https://euangoddard.github.io/clipboard2markdown/
+
+Tester Speed JS Script:
+https://jsperf.com
