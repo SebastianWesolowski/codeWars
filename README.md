@@ -16,7 +16,7 @@ My solve Kata from CodeWars.
 | [10](https://github.com/SebastianWesolowski/codeWars/tree/master/JavaScript/Get%20Nth%20Even%20Number/)                          | [Get Nth Even Number](https://www.codewars.com/kata/get-nth-even-number/javascript)                 | [8](./JavaScript/Get%20Nth%20Even%20Number/README.md)                           |
 | [11](https://github.com/SebastianWesolowski/codeWars/tree/master/JavaScript/Mumbling)                                            | [Mumbling](https://www.codewars.com/kata/mumbling/javascript)                                       | [7](./JavaScript/Mumbling/README.md)                                            |
 | [12](https://github.com/SebastianWesolowski/codeWars/tree/master/JavaScript/counting%20sheep)                                    | [Counting sheep](https://www.codewars.com/kata/counting-sheep-dot-dot-dot/javascript)               | [8](./JavaScript/counting%20sheep/README.md)                                    |
-| [13](https://github.com/SebastianWesolowski/codeWars/tree/master/JavaScript/Sum%20of%20differences%20in%20array)                 | [Sum of differences in array](https://www.codewars.com/kata/sum-of-differences-in-array/javascript) | [8](./JavaScript/Sum%20of%20differences%20in%20arrayREADME.md)                  |
+| [13](https://github.com/SebastianWesolowski/codeWars/tree/master/JavaScript/Sum%20of%20differences%20in%20array)                 | [Sum of differences in array](https://www.codewars.com/kata/sum-of-differences-in-array/javascript) | [8](./JavaScript/Sum%20of%20differences%20in%20array/README.md)                 |
 
 My CodeWars profile: https://www.codewars.com/users/SebastianWesolowsik
 

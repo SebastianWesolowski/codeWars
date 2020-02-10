@@ -1,4 +1,3 @@
-console.log('clear===========');
 function superSize(num) {
   num = num.toString().split('');
   return parseInt(
