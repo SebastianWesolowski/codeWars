@@ -17,6 +17,7 @@ My solve Kata from CodeWars.
 | [11](https://github.com/SebastianWesolowski/codeWars/tree/master/JavaScript/Mumbling)                                            | [Mumbling](https://www.codewars.com/kata/mumbling/javascript)                                       | [7](./JavaScript/Mumbling/README.md)                                            |
 | [12](https://github.com/SebastianWesolowski/codeWars/tree/master/JavaScript/counting%20sheep)                                    | [Counting sheep](https://www.codewars.com/kata/counting-sheep-dot-dot-dot/javascript)               | [8](./JavaScript/counting%20sheep/README.md)                                    |
 | [13](https://github.com/SebastianWesolowski/codeWars/tree/master/JavaScript/Sum%20of%20differences%20in%20array)                 | [Sum of differences in array](https://www.codewars.com/kata/sum-of-differences-in-array/javascript) | [8](./JavaScript/Sum%20of%20differences%20in%20array/README.md)                 |
+| [14](https://github.com/SebastianWesolowski/codeWars/tree/master/JavaScript/Complete%20The%20Pattern%20#1)                       | [Complete The Pattern #1](https://www.codewars.com/kata/5572f7c346eb58ae9c000047/javascript)        | [7](./JavaScript/Complete%20The%20Pattern%20#1/README.md)                       |
 
 My CodeWars profile: https://www.codewars.com/users/SebastianWesolowsik
 
@@ -26,4 +27,4 @@ Markdown conventer:
 https://euangoddard.github.io/clipboard2markdown/
 
 Tester Speed JS Script:
-https://jsperf.com
+https://jsben.ch/
