@@ -19,6 +19,8 @@ My solve Kata from CodeWars.
 | [13](https://github.com/SebastianWesolowski/codeWars/tree/master/JavaScript/Sum%20of%20differences%20in%20array)                 | [Sum of differences in array](https://www.codewars.com/kata/sum-of-differences-in-array/javascript) | [8](./JavaScript/Sum%20of%20differences%20in%20array/README.md)                 |
 | [14](https://github.com/SebastianWesolowski/codeWars/tree/master/JavaScript/Complete%20The%20Pattern%20%231)                     | [Complete The Pattern #1](https://www.codewars.com/kata/5572f7c346eb58ae9c000047/javascript)        | [7](./JavaScript/Complete%20The%20Pattern%20%231/README.md)                     |
 
+<img src="/users/SebastianWesolowsik/badges/large">
+
 My CodeWars profile: https://www.codewars.com/users/SebastianWesolowsik
 
 ### Helper Link:
