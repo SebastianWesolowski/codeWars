@@ -1,18 +1,18 @@
 {
-  "name": "fomap",
+  "name": "codeWars",
   "version": "0.1.0",
-  "description": "MVP fomap",
+  "description": "codeWars task",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Seyarn sbastianWesolowski/fomap.git"
+    "url": "https://github.com/Seyarn sbastianWesolowski/codeWars.git"
   },
-  "author": "Sarutobi69, Sebastian Wesołowski <sebastian.wesolowski.sw@gmail.com>, <sebastian@wesolowski.dev>",
+  "author": "Sebastian Wesołowski <sebastian.wesolowski.sw@gmail.com>, <sebastian@wesolowski.dev>",
   "license": "MIT",
   "private": false,
-  "homepage": "https://github.com/SebastianWesolowski/fomap",
+  "homepage": "https://github.com/SebastianWesolowski/codeWars",
   "bugs": {
-    "url": "https://github.com/SebastianWesolowski/fomap/issues"
+    "url": "https://github.com/SebastianWesolowski/codeWars/issues"
   },
   "scripts": {
     "start": "concurrently --kill-others \"yarn run serve ./app\" \"yarn run nodemon ./app/js -q\""

@@ -13,7 +13,4 @@ function cleanString (s) {
   }
 
   return arraySting.join('');
-};
-
-console.log('== refresh');
-console.log(cleanString('#hskjdf#gd'));  // ac
+}
