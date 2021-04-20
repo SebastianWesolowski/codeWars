@@ -38,7 +38,7 @@ My solve Kata from CodeWars.
 | [16](https://github.com/SebastianWesolowski/codeWars/tree/master/JavaScript/Sudoku%20Solution%20Validator)                       | [Sudoku Solution Validator](https://www.codewars.com/kata/529bf0e9bdf7657179000008/javascript)      | [4](JavaScript/Sudoku%20Solution%20Validator/README.md)                         |
 | [17](https://github.com/SebastianWesolowski/codeWars/tree/master/JavaScript/Who%20likes%20it)                                    | [Who likes it](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/javascript)                   | [6](JavaScript/Who%20likes%20it/README.md)                                      |
 
-![badge](https://www.codewars.com/users/SebastianWesolowsik/badges/large)
+![badge](https://www.codewars.com/users/SebastianWesolowski/badges/large)
 
 My CodeWars profile: https://www.codewars.com/users/SebastianWesolowsik
 
