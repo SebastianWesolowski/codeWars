@@ -32,7 +32,11 @@ My solve Kata from CodeWars.
 | [10](https://github.com/SebastianWesolowski/codeWars/tree/master/JavaScript/Give%20me%20a%20Diamond)                             | [Give me a Diamond](https://www.codewars.com/kata/5503013e34137eeeaa001648/javascript)              | [6](./JavaScript/Give%20me%20a%20Diamond/README.md)                             |
 | [11](https://github.com/SebastianWesolowski/codeWars/tree/master/JavaScript/Find%20the%20missing%20letter)                       | [Find the missing letter](https://www.codewars.com/kata/5839edaa6754d6fec10000a2/javascript)        | [6](./JavaScript/Find%20the%20missing%20letter/README.md)                       |
 | [12](https://github.com/SebastianWesolowski/codeWars/tree/master/JavaScript/Range%20Extraction)                                  | [Range Extraction](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f/javascript)               | [4](./JavaScript/Range%20Extraction/README.md)                                  |
-| [13](https://github.com/SebastianWesolowski/codeWars/tree/master/JavaScript/Snail)                                               | [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1/javascript)                          | [4](./JavaScript/Snail/README.md)                                               |
+| [13](https://github.com/SebastianWesolowski/codeWars/tree/master/JavaScript/Counting%20Duplicates)                               | [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1/javascript)            | [6](JavaScript/Counting%20Duplicates/README.md)                                 |
+| [14](https://github.com/SebastianWesolowski/codeWars/tree/master/JavaScript/int32%20t%20IPv4s)                                   | [int32 to IPv4](https://www.codewars.com/kata/52e88b39ffb6ac53a400022e/javascript)                  | [5](JavaScript/int32%20t%20IPv4s/README.md)                                     |
+| [15](https://github.com/SebastianWesolowski/codeWars/tree/master/JavaScript/Moving%20Zeros%20To%20The%20End)                     | [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0/javascript)        | [5](JavaScript/Moving%20Zeros%20To%20The%20End/README.md)                       |
+| [16](https://github.com/SebastianWesolowski/codeWars/tree/master/JavaScript/Sudoku%20Solution%20Validator)                       | [Sudoku Solution Validator](https://www.codewars.com/kata/529bf0e9bdf7657179000008/javascript)      | [4](JavaScript/Sudoku%20Solution%20Validator/README.md)                         |
+| [17](https://github.com/SebastianWesolowski/codeWars/tree/master/JavaScript/Who%20likes%20it)                                    | [Who likes it](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/javascript)                   | [6](JavaScript/Who%20likes%20it/README.md)                                      |
 
 ![badge](https://www.codewars.com/users/SebastianWesolowsik/badges/large)
 
@@ -45,3 +49,11 @@ https://euangoddard.github.io/clipboard2markdown/
 
 Tester Speed JS Script:
 https://jsben.ch/
+
+
+
+Counting Duplicates
+int32 to IPv4
+Moving Zeros To The End
+Sudoku Solution Validator
+Who likes it
